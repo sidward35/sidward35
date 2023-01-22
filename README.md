@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![sidward35's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidward35&show_icons=true)](https://github.com/sidward35)
+| [![sidward35's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidward35&show_icons=true)](https://github.com/sidward35) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sidward35&theme=github) |
+|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
